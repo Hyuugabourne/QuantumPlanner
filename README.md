@@ -6,5 +6,6 @@ Organizador de agenda pessoal
 <ul>
     <li>Visulizacao mensal, semanal, diaria</li>
     <li>Possibilidade de adicionar atividades dentro de outras atividades</li>
+    <li>Adicionar atividades por botao ou clicando sobre o horario</li>
 </ul>
 
